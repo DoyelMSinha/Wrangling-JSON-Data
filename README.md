@@ -1,4 +1,6 @@
-Submission for Springboard Data Wrangling assignment.
+Submission for Springboard Data Wrangling assignment:
+
+Program :sliderule_dsi_json_exercise.py
 
 The program reads JSON file world_bank_projects.json and converts it to a Dataframe.
 
